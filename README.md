@@ -11,7 +11,7 @@ RESTful services with Node, Express and MongoDB.
 - TDD
 - Unit and integration testing
 
-The project is distributed on Heroku and has an mLab collections.
+The project is deployed on Heroku and has an mLab collections.
 The App does not have a user interface, to test it we need an API development environment like Postman.
 
 ### Quick Start
