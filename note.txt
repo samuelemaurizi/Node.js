@@ -1,0 +1,12 @@
+
+For testing the API, in Rentals router POST req we need to pass only the CustomerId and MovieId based on the validation, with Joi, in the Rental Model the rest will fullfill by the Schema.
+
+In Section 9 lecture Transactions check the Q&A from Evandro Gayer about Transactions in mongoose and mongodb.
+For now the Transaction is made with Fawn npm package.
+
+!!! Up this point before we run the app with nodemon or node index.js we need to set the jwtPrivateKey in the terminal. The jwtPrivateKey is defined in config folder -> development.json
+Another option, just for this case as study project and not for production cases, is to write as Key (vidly_jwtPrivateKey) in default.json as a value. In this way no need to set the key in the terminal.
+
+!!! All features relating to Winston has a issue or doesnt work...must be implemented !!!
+
+!!! To testing the db we simulate an ENV like: " NODE_ENV=test node index.js " , in the terminal !!!

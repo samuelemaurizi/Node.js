@@ -1,0 +1,3 @@
+{
+  "set private key on the console before run the app": "export vidly_jwtPrivateKey=mySecureKey"
+}

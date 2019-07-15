@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "vidly_jwtPrivateKey",
+  "db": "mongodb://localhost/mongo-exercises"
+}
