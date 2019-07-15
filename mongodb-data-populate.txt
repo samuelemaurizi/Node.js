@@ -1,1 +1,0 @@
-mongoimport --db mongo-exercises --collection genres --drop --file genres-data.json --jsonArray
