@@ -20,5 +20,3 @@ npm install
 ```
 nodemon
 ```
-
-git remote add origin https://github.com/samuelemaurizi/Node.js.git
